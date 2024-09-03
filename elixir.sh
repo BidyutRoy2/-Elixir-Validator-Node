@@ -19,8 +19,8 @@ if [[ ! "$FOLLOWED" =~ ^[yY]$ ]]; then
     echo ""
     echo -e "${RED}Please Join @hiddengemnews on X before proceeding.${NC}"
     exit 1
-fi
-sleep 1 && curl -s https://raw.githubusercontent.com/BidyutRoy2/BidyutRoy2/main/logo.sh | bash && sleep 1
+    
+    sleep 1 && curl -s https://raw.githubusercontent.com/BidyutRoy2/BidyutRoy2/main/logo.sh | bash && sleep 1
 
 fi
 
