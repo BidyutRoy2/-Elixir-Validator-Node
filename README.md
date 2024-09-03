@@ -1,4 +1,4 @@
-<h2 align=center>Elixir Validator Node Guide by ZunXBT</h2>
+<h2 align=center>Elixir Validator Node Guide by Hidden Gem</h2>
 
 ## Project Information
 Elixir is a decentralized modular protocol aimed at enhancing liquidity on orderbook-based exchanges. It utilizes a decentralized proof-of-stake (DPoS) system, where validator nodes play a crucial role in maintaining the network’s accuracy and security. Validators are responsible for verifying transactions, creating new blocks, and participating in the consensus process to ensure the network operates smoothly. As part of the protocol's development, there is a potential for validator nodes to receive an airdrop during the TokenGeneration Event (TGE).
