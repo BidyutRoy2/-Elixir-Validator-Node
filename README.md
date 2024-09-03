@@ -1,21 +1,30 @@
 <h2 align=center>Elixir Validator Node Guide by Hidden Gem</h2>
 
-## Project Information
+<details>
+<summary> <h1> Project Information </h1> </summary>
 Elixir is a decentralized modular protocol aimed at enhancing liquidity on orderbook-based exchanges. It utilizes a decentralized proof-of-stake (DPoS) system, where validator nodes play a crucial role in maintaining the network’s accuracy and security. Validators are responsible for verifying transactions, creating new blocks, and participating in the consensus process to ensure the network operates smoothly. As part of the protocol's development, there is a potential for validator nodes to receive an airdrop during the TokenGeneration Event (TGE).
 
 They raised $17.5M from VCs like Amber Group, Mysten Labs
+
+</details>
+
 ![Screenshot 2024-09-03 103631](https://github.com/user-attachments/assets/0b6eba17-7aa1-46e2-8401-ae3a34dc25d2)
 
 
 [Elixir Twitter](https://x.com/elixir) • [Elixir Discord](https://discord.gg/elixirnetwork) • [Elixir Docs](https://docs.elixir.xyz/)
 
-## Vps Configurations
+<details>
+
+ <summary>VPS Configurations </summary>
 
 | **Component**         | **Recommended Specification**                |
 |-----------------------|----------------------------------------------|
 | **RAM**            | 8 GB RAM                                    |
 | **Internet Connection** | Reliable 100 Mbit/s                        |
 | **Disk Storage**      | 100 GB (minimal)                            |
+
+
+</details>
 
 - If you want, you can buy from [PQ Hosting](https://pq.hosting/?from=557648) using crypto currency
 
