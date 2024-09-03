@@ -10,15 +10,15 @@ NC='\033[0m'
 command_exists() {
     command -v "$1" &> /dev/null
 }
+
 echo ""
 echo -e "${BOLD}${YELLOW}Follow: https://t.me/hiddengemnews ${NC}"
-read -p "Have you Joined @hiddengemnews on X? (y/Y to proceed): " FOLLOWED
+read -p "Have you Joined @Hiddengemnews? (y/Y to proceed): " FOLLOWED
 
 if [[ ! "$FOLLOWED" =~ ^[yY]$ ]]; then
     echo ""
-    echo -e "${RED}Please Join @hiddengemnews on X before proceeding.${NC}"
+    echo -e "${RED}Please follow @Hiddengemnews before proceeding.${NC}"
     exit 1
-
 fi
 
 if command_exists nvm; then
@@ -136,3 +136,7 @@ echo -e "${BOLD}${CYAN}Running Docker...${NC}"
 docker run -d --env-file validator.env --name elixir -p 17690:17690 --restart unless-stopped elixirprotocol/validator:v3
 echo ""
 echo -e "${BOLD}${CYAN}Script execution is completed successfully${NC}"
+
+fi
+
+sleep 1 && curl -s https://raw.githubusercontent.com/BidyutRoy2/BidyutRoy2/main/logo.sh | bash && sleep 1
