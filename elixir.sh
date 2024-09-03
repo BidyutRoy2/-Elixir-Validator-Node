@@ -137,6 +137,4 @@ docker run -d --env-file validator.env --name elixir -p 17690:17690 --restart un
 echo ""
 echo -e "${BOLD}${CYAN}Script execution is completed successfully${NC}"
 
-fi
-
 sleep 1 && curl -s https://raw.githubusercontent.com/BidyutRoy2/BidyutRoy2/main/logo.sh | bash && sleep 1
