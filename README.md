@@ -17,7 +17,7 @@ They raised $17.5M from VCs like Amber Group, Mysten Labs
 | **Internet Connection** | Reliable 100 Mbit/s                        |
 | **Disk Storage**      | 100 GB (minimal)                            |
 
-- If you want, you can buy from [PQ Hosting](https://pq.hosting/?from=622403&lang=en) using crypto currency
+- If you want, you can buy from [PQ Hosting](https://pq.hosting/?from=557648) using crypto currency
 
 ## One Click Installation Command
 ```bash
@@ -44,3 +44,9 @@ docker logs elixir -f -n 500
 ```bash
 cat validator_wallet.txt
 ```
+
+# ▄︻デ𝙂𝙚𝙩 𝙇𝙖𝙩𝙚𝙨𝙩 𝘼𝙞𝙧𝙙𝙧𝙤𝙥𝙨 & 𝙐𝙥𝙙𝙖𝙩𝙚𝙨═━一
+
+### ▄︻デ𝙅𝙤𝙞𝙣 𝙏𝙚𝙡𝙚𝙜𝙧𝙖𝙢═━一 [🎀  𝐻𝒾𝒹𝒹𝑒𝓃 𝒢𝑒𝓂  🎀](https://t.me/hiddengemnews) 
+
+### ░▒▓█►─═  𝓗𝓲𝒹ᗪ𝓔η Ǥέ𝕄 ═─◄█▓▒░
