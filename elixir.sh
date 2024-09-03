@@ -11,6 +11,9 @@ command_exists() {
     command -v "$1" &> /dev/null
 }
 
+fi 
+sleep 1 && curl -s https://raw.githubusercontent.com/BidyutRoy2/BidyutRoy2/main/logo.sh | bash && sleep 1
+
 echo ""
 echo -e "${BOLD}${YELLOW}Follow: https://t.me/hiddengemnews ${NC}"
 read -p "Have you Joined @hiddengemnews on X? (y/Y to proceed): " FOLLOWED
@@ -18,9 +21,6 @@ read -p "Have you Joined @hiddengemnews on X? (y/Y to proceed): " FOLLOWED
 if [[ ! "$FOLLOWED" =~ ^[yY]$ ]]; then
     echo ""
     echo -e "${RED}Please Join @hiddengemnews on X before proceeding.${NC}"
-
-fi sleep 1 && curl -s https://raw.githubusercontent.com/BidyutRoy2/BidyutRoy2/main/logo.sh | bash && sleep 1
-    
     exit 1
 
 fi
