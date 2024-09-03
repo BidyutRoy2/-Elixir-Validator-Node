@@ -9,9 +9,6 @@ NC='\033[0m'
 
 command_exists() {
     command -v "$1" &> /dev/null
-    
-    sleep 1 && curl -s https://raw.githubusercontent.com/BidyutRoy2/BidyutRoy2/main/logo.sh | bash && sleep 1
-    
 }
 echo ""
 echo -e "${BOLD}${YELLOW}Follow: https://t.me/hiddengemnews ${NC}"
