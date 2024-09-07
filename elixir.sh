@@ -140,5 +140,3 @@ echo -e "${BOLD}${CYAN}Running Docker...${NC}"
 docker run -d --env-file validator.env --name elixir -p 17690:17690 --restart unless-stopped elixirprotocol/validator:v3
 echo ""
 echo -e "${BOLD}${CYAN}Script execution is completed successfully${NC}"
-
-sleep 1 && curl -s https://raw.githubusercontent.com/BidyutRoy2/BidyutRoy2/main/logo.sh | bash && sleep 1
