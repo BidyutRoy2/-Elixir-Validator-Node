@@ -16,12 +16,12 @@ command_exists() {
 }
 
 echo ""
-echo -e "${BOLD}${YELLOW}Follow: https://t.me/hiddengemnews ${NC}"
+echo -e "${BOLD}${YELLOW}Join: https://t.me/hiddengemnews ${NC}"
 read -p "Have you Joined @Hiddengemnews? (y/Y to proceed): " FOLLOWED
 
 if [[ ! "$FOLLOWED" =~ ^[yY]$ ]]; then
     echo ""
-    echo -e "${RED}Please follow @Hiddengemnews before proceeding.${NC}"
+    echo -e "${RED}Please Joined @Hiddengemnews before proceeding.${NC}"
     exit 1
 fi
 
